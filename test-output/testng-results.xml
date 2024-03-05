@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T15:10:26 IST" name="Suite" finished-at="2024-03-05T15:11:35 IST" duration-ms="68371">
+    <groups>
+      <group name="regression">
+        <method signature="TestCase1.ZigWheelsCapturerror()[pri:17, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsCapturerror" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsClickNext()[pri:16, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsClickNext" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsHandleWindow()[pri:14, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsHandleWindow" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsLogin()[pri:11, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsLogin" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsNewBikes()[pri:3, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsNewBikes" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsReadMore()[pri:4, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsReadMore" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsUsedCars()[pri:8, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsUsedCars" class="TestCases.TestCase1"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestCase1.ZigWheels()[pri:7, instance:TestCases.TestCase1@4c371370]" name="ZigWheels" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsChennai()[pri:9, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsChennai" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsClickOnGoogle()[pri:13, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsClickOnGoogle" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsClickOnLogin()[pri:12, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsClickOnLogin" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsHome()[pri:1, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsHome" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsLessThan4Lakhs()[pri:6, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsLessThan4Lakhs" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsScrollDown()[pri:10, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsScrollDown" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsScrollDown1()[pri:5, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsScrollDown1" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelsUpcoming()[pri:2, instance:TestCases.TestCase1@4c371370]" name="ZigWheelsUpcoming" class="TestCases.TestCase1"/>
+        <method signature="TestCase1.ZigWheelssetEmail()[pri:15, instance:TestCases.TestCase1@4c371370]" name="ZigWheelssetEmail" class="TestCases.TestCase1"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-05T15:10:26 IST" name="Test" finished-at="2024-03-05T15:11:35 IST" duration-ms="68371">
+      <class name="TestCases.TestCase1">
+        <test-method is-config="true" signature="driverSetUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:10:27 IST" name="driverSetUp" finished-at="2024-03-05T15:10:49 IST" duration-ms="21588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="ZigWheelsHome()[pri:1, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:10:49 IST" name="ZigWheelsHome" finished-at="2024-03-05T15:10:49 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsHome -->
+        <test-method signature="ZigWheelsUpcoming()[pri:2, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:10:50 IST" name="ZigWheelsUpcoming" finished-at="2024-03-05T15:10:55 IST" duration-ms="5413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsUpcoming -->
+        <test-method signature="ZigWheelsNewBikes()[pri:3, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:10:57 IST" name="ZigWheelsNewBikes" finished-at="2024-03-05T15:10:58 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsNewBikes -->
+        <test-method signature="ZigWheelsReadMore()[pri:4, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:10:59 IST" name="ZigWheelsReadMore" finished-at="2024-03-05T15:10:59 IST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsReadMore -->
+        <test-method signature="ZigWheelsScrollDown1()[pri:5, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:00 IST" name="ZigWheelsScrollDown1" finished-at="2024-03-05T15:11:00 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsScrollDown1 -->
+        <test-method signature="ZigWheelsLessThan4Lakhs()[pri:6, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:01 IST" name="ZigWheelsLessThan4Lakhs" finished-at="2024-03-05T15:11:06 IST" duration-ms="4821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsLessThan4Lakhs -->
+        <test-method signature="ZigWheels()[pri:7, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:06 IST" name="ZigWheels" finished-at="2024-03-05T15:11:08 IST" duration-ms="1908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheels -->
+        <test-method signature="ZigWheelsUsedCars()[pri:8, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:09 IST" name="ZigWheelsUsedCars" finished-at="2024-03-05T15:11:09 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsUsedCars -->
+        <test-method signature="ZigWheelsChennai()[pri:9, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:10 IST" name="ZigWheelsChennai" finished-at="2024-03-05T15:11:16 IST" duration-ms="5255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsChennai -->
+        <test-method signature="ZigWheelsScrollDown()[pri:10, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:16 IST" name="ZigWheelsScrollDown" finished-at="2024-03-05T15:11:17 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsScrollDown -->
+        <test-method signature="ZigWheelsLogin()[pri:11, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:17 IST" name="ZigWheelsLogin" finished-at="2024-03-05T15:11:19 IST" duration-ms="1915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsLogin -->
+        <test-method signature="ZigWheelsClickOnLogin()[pri:12, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:21 IST" name="ZigWheelsClickOnLogin" finished-at="2024-03-05T15:11:23 IST" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsClickOnLogin -->
+        <test-method signature="ZigWheelsClickOnGoogle()[pri:13, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:24 IST" name="ZigWheelsClickOnGoogle" finished-at="2024-03-05T15:11:24 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsClickOnGoogle -->
+        <test-method signature="ZigWheelsHandleWindow()[pri:14, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:25 IST" name="ZigWheelsHandleWindow" finished-at="2024-03-05T15:11:25 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsHandleWindow -->
+        <test-method signature="ZigWheelssetEmail()[pri:15, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:28 IST" name="ZigWheelssetEmail" finished-at="2024-03-05T15:11:29 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelssetEmail -->
+        <test-method signature="ZigWheelsClickNext()[pri:16, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:29 IST" name="ZigWheelsClickNext" finished-at="2024-03-05T15:11:30 IST" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsClickNext -->
+        <test-method signature="ZigWheelsCapturerror()[pri:17, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:31 IST" name="ZigWheelsCapturerror" finished-at="2024-03-05T15:11:31 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZigWheelsCapturerror -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestCase1@4c371370]" started-at="2024-03-05T15:11:31 IST" name="tearDown" finished-at="2024-03-05T15:11:35 IST" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Utils.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestCases.TestCase1">
+        <methods>
+          <include name="ZigWheelsLogin"/>
+          <include name="ZigWheelsScrollDown1"/>
+          <include name="ZigWheelsHome"/>
+          <include name="ZigWheelsUsedCars"/>
+          <include name="ZigWheelsClickNext"/>
+          <include name="ZigWheelsClickOnGoogle"/>
+          <include name="ZigWheelsClickOnLogin"/>
+          <include name="driverSetUp"/>
+          <include name="tearDown"/>
+          <include name="ZigWheelsHandleWindow"/>
+          <include name="ZigWheelssetEmail"/>
+          <include name="ZigWheelsReadMore"/>
+          <include name="ZigWheelsLessThan4Lakhs"/>
+          <include name="ZigWheelsUpcoming"/>
+          <include name="ZigWheels"/>
+          <include name="ZigWheelsScrollDown"/>
+          <include name="ZigWheelsChennai"/>
+          <include name="ZigWheelsNewBikes"/>
+          <include name="ZigWheelsCapturerror"/>
+        </methods>
+      </class> <!-- TestCases.TestCase1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
