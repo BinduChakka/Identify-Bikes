@@ -44,3 +44,27 @@
 15:11:24.716 [main] INFO  TestCases.TestCase1 - Clicked on login
 15:11:29.169 [main] INFO  TestCases.TestCase1 - Email entered
 15:11:31.326 [main] INFO  TestCases.TestCase1 - Error Captured
+12:57:30.140 [main] INFO  TestCases.TestCase1 - Upcoming
+12:57:31.093 [main] INFO  TestCases.TestCase1 - Successfully clicked on Manufacture
+12:57:32.153 [main] INFO  TestCases.TestCase1 - Bikes
+12:57:36.800 [main] INFO  TestCases.TestCase1 - Bikes List
+12:57:51.196 [main] INFO  TestCases.TestCase1 - Selected chennai
+12:57:54.431 [main] INFO  TestCases.TestCase1 - Successfully navigated to ZigWheels
+12:57:58.785 [main] INFO  TestCases.TestCase1 - Clicked on login
+13:00:13.167 [main] INFO  TestCases.TestCase1 - Upcoming
+13:00:17.415 [main] INFO  TestCases.TestCase1 - Successfully clicked on Manufacture
+13:00:19.706 [main] INFO  TestCases.TestCase1 - Bikes
+13:00:22.226 [main] INFO  TestCases.TestCase1 - Bikes List
+13:00:36.050 [main] INFO  TestCases.TestCase1 - Selected chennai
+13:00:39.214 [main] INFO  TestCases.TestCase1 - Successfully navigated to ZigWheels
+13:00:44.778 [main] INFO  TestCases.TestCase1 - Clicked on login
+13:00:47.959 [main] INFO  TestCases.TestCase1 - Email entered
+13:00:49.410 [main] INFO  TestCases.TestCase1 - Error Captured
+21:20:43.059 [main] INFO  TestCases.TestCase1 - Upcoming
+21:20:47.026 [main] INFO  TestCases.TestCase1 - Successfully clicked on Manufacture
+21:20:49.620 [main] INFO  TestCases.TestCase1 - Bikes
+21:20:52.336 [main] INFO  TestCases.TestCase1 - Bikes List
+21:21:05.215 [main] INFO  TestCases.TestCase1 - Selected chennai
+21:21:08.436 [main] INFO  TestCases.TestCase1 - Successfully navigated to ZigWheels
+21:21:14.570 [main] INFO  TestCases.TestCase1 - Clicked on login
+21:21:18.589 [main] INFO  TestCases.TestCase1 - Email entered

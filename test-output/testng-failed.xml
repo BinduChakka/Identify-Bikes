@@ -16,24 +16,11 @@
     <classes>
       <class name="TestCases.TestCase1">
         <methods>
-          <include name="ZigWheelsLogin"/>
-          <include name="ZigWheelsScrollDown1"/>
-          <include name="ZigWheelsHome"/>
-          <include name="ZigWheelsUsedCars"/>
           <include name="ZigWheelsClickNext"/>
-          <include name="ZigWheelsClickOnGoogle"/>
-          <include name="ZigWheelsClickOnLogin"/>
           <include name="driverSetUp"/>
           <include name="tearDown"/>
           <include name="ZigWheelsHandleWindow"/>
           <include name="ZigWheelssetEmail"/>
-          <include name="ZigWheelsReadMore"/>
-          <include name="ZigWheelsLessThan4Lakhs"/>
-          <include name="ZigWheelsUpcoming"/>
-          <include name="ZigWheels"/>
-          <include name="ZigWheelsScrollDown"/>
-          <include name="ZigWheelsChennai"/>
-          <include name="ZigWheelsNewBikes"/>
           <include name="ZigWheelsCapturerror"/>
         </methods>
       </class> <!-- TestCases.TestCase1 -->
